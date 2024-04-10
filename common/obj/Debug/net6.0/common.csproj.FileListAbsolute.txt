@@ -1,0 +1,12 @@
+/Users/koki/Projects/test/common/bin/Debug/net6.0/common.deps.json
+/Users/koki/Projects/test/common/bin/Debug/net6.0/common.dll
+/Users/koki/Projects/test/common/bin/Debug/net6.0/common.pdb
+/Users/koki/Projects/test/common/obj/Debug/net6.0/common.csproj.AssemblyReference.cache
+/Users/koki/Projects/test/common/obj/Debug/net6.0/common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/koki/Projects/test/common/obj/Debug/net6.0/common.AssemblyInfoInputs.cache
+/Users/koki/Projects/test/common/obj/Debug/net6.0/common.AssemblyInfo.cs
+/Users/koki/Projects/test/common/obj/Debug/net6.0/common.csproj.CoreCompileInputs.cache
+/Users/koki/Projects/test/common/obj/Debug/net6.0/common.dll
+/Users/koki/Projects/test/common/obj/Debug/net6.0/refint/common.dll
+/Users/koki/Projects/test/common/obj/Debug/net6.0/common.pdb
+/Users/koki/Projects/test/common/obj/Debug/net6.0/ref/common.dll
